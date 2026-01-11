@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RehanAhmed027/leetcode/tree/master/0001-two-sum) |
 | [0791-custom-sort-string](https://github.com/RehanAhmed027/leetcode/tree/master/0791-custom-sort-string) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/RehanAhmed027/leetcode/tree/master/0791-custom-sort-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RehanAhmed027/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
